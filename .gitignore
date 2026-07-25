@@ -1,0 +1,10 @@
+# ローカル専用
+main.py
+admin.html
+requirements.txt
+起動.bat
+start.bat
+README.md
+__pycache__/
+*.pyc
+.env
