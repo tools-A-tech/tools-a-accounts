@@ -543,20 +543,36 @@ document.addEventListener("keydown", event => {
   if (event.key === "ArrowRight") moveGallery(1);
 });
 
-async async function initialize() {
+async function initialize() {
   try {
     state.games = await loadJson("data/games.json", FALLBACK_GAMES);
     state.products = await loadJson("data/products.json", FALLBACK_PRODUCTS);
   } catch (e) {
     console.warn("データ読み込みに失敗したためフォールバックを使用します。", e);
-    state.games = FALLBACK_GAMES;
-    state.products = FALLBACK_PRODUCTS;
+    state.games = FALLBACK_GAMES || [];
+    state.products = FALLBACK_PRODUCTS || [];
   }
+
+  // 最終的な安全策
+  if (!Array.isArray(state.games) || state.games.length === 0) {
+    state.games = FALLBACK_GAMES || [];
+  }
+  if (!Array.isArray(state.products)) {
+    state.products = FALLBACK_PRODUCTS || [];
+  }
+
+  console.log("Loaded games:", state.games.length, "products:", state.products.length);
   renderCategories();
   renderProducts();
 }
 
-initialize();
+initialize().catch(err => {
+  console.error("initialize failed:", err);
+  state.games = FALLBACK_GAMES || [];
+  state.products = FALLBACK_PRODUCTS || [];
+  renderCategories();
+  renderProducts();
+});
 
 </script>
 </body>
