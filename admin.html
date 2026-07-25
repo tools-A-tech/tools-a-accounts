@@ -336,11 +336,11 @@ textarea { min-height: 90px; resize: vertical; }
       <div class="form-grid">
         <div>
           <label>X URL</label>
-          <input type="url" id="productXUrl" placeholder="https://x.com/...">
+          <input type="url" id="productXUrl" placeholder="https://x.com/messages/compose?recipient_id=...">
         </div>
         <div>
           <label>LINE URL</label>
-          <input type="url" id="productLineUrl" placeholder="https://line.me/... または #">
+          <input type="url" id="productLineUrl" placeholder="https://line.me/ti/p/...">
         </div>
       </div>
 
@@ -557,8 +557,8 @@ textarea { min-height: 90px; resize: vertical; }
       document.getElementById("productTitle").value = "";
       document.getElementById("productDescription").value = "";
       document.getElementById("productPrice").value = "0";
-      document.getElementById("productXUrl").value = "https://x.com/tools_A_";
-      document.getElementById("productLineUrl").value = "#";
+      document.getElementById("productXUrl").value = "https://x.com/messages/compose?recipient_id=1641057230408540163";
+      document.getElementById("productLineUrl").value = "https://line.me/ti/p/9v4gGIz11z";
       if (games.length) {
         document.getElementById("productGameId").value = games[0].id;
       }
@@ -646,8 +646,8 @@ textarea { min-height: 90px; resize: vertical; }
       const title = document.getElementById("productTitle").value.trim();
       const description = document.getElementById("productDescription").value.trim();
       const price = Number(document.getElementById("productPrice").value) || 0;
-      const xUrl = document.getElementById("productXUrl").value.trim() || "#";
-      const lineUrl = document.getElementById("productLineUrl").value.trim() || "#";
+      const xUrl = document.getElementById("productXUrl").value.trim() || "https://x.com/messages/compose?recipient_id=1641057230408540163";
+      const lineUrl = document.getElementById("productLineUrl").value.trim() || "https://line.me/ti/p/9v4gGIz11z";
 
       if (!gameId || !title) {
         alert("ゲームとタイトルは必須です");
