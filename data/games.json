@@ -22,5 +22,11 @@
     "name": "バウンティ",
     "fullName": "バウンティラッシュ",
     "icon": "☠"
+  },
+  {
+    "id": "efoot",
+    "name": "イーフト",
+    "fullName": "efootball",
+    "icon": "●"
   }
 ]
