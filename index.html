@@ -428,7 +428,6 @@ function renderCategories() {
   categoryBar.innerHTML = items.map(game => `
     <button class="category-button ${state.category === game.id ? "active" : ""}"
       type="button" data-category="${game.id}">
-      <span class="category-icon">${game.icon || "●"}</span>
       <span>${game.name}</span>
     </button>
   `).join("");
