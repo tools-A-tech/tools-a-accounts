@@ -1,0 +1,38 @@
+@echo off
+chcp 65001 > nul
+title アカウント販売サイト - ローカルサーバー
+
+cd /d "%~dp0"
+
+echo ========================================
+echo   進行垢・引退垢・BOX公開アカウント
+echo   ローカルサーバーを起動しています...
+echo ========================================
+echo.
+
+REM 依存関係が入っているか軽くチェック（なければ入れる）
+python -c "import fastapi, uvicorn" 2>nul
+if errorlevel 1 (
+    echo [初回] 必要なパッケージをインストールします...
+    pip install -r requirements.txt
+    echo.
+)
+
+echo サーバーを起動します...
+echo.
+echo   公開ページ : http://127.0.0.1:8000/
+echo   管理画面   : http://127.0.0.1:8000/admin
+echo.
+echo 終了するときは このウィンドウで Ctrl + C を押してください
+echo ========================================
+echo.
+
+REM ブラウザを自動で開く（管理画面）
+start "" "http://127.0.0.1:8000/admin"
+
+REM サーバー起動
+python -m uvicorn main:app --reload --host 127.0.0.1 --port 8000
+
+echo.
+echo サーバーを停止しました。
+pause

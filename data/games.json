@@ -1,0 +1,26 @@
+[
+  {
+    "id": "monst",
+    "name": "モンスト",
+    "fullName": "モンスターストライク",
+    "icon": "M"
+  },
+  {
+    "id": "prospi",
+    "name": "プロスピA",
+    "fullName": "プロ野球スピリッツA",
+    "icon": "⚾"
+  },
+  {
+    "id": "fanpare",
+    "name": "ファンパレ",
+    "fullName": "呪術廻戦 ファントムパレード",
+    "icon": "呪"
+  },
+  {
+    "id": "bounty",
+    "name": "バウンティ",
+    "fullName": "バウンティラッシュ",
+    "icon": "☠"
+  }
+]
