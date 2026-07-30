@@ -28,5 +28,17 @@
     "name": "イーフト",
     "fullName": "efootball",
     "icon": "●"
+  },
+  {
+    "id": "fgo",
+    "name": "FGO",
+    "fullName": "Fate/Grand Order",
+    "icon": "●"
+  },
+  {
+    "id": "nikke",
+    "name": "NIKKE",
+    "fullName": "勝利の女神：NIKKE",
+    "icon": "●"
   }
 ]
