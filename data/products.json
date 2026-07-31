@@ -336,5 +336,18 @@
     "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
     "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
     "id": "fgo-002"
+  },
+  {
+    "gameId": "fgo",
+    "gameName": "Fate/Grand Order",
+    "title": "画像キャラ確定 初期垢",
+    "description": "石1500前後 初期垢",
+    "price": 2000,
+    "images": [
+      "images/862a8a5972bc44308d2206924b6e5b09.png"
+    ],
+    "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
+    "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
+    "id": "fgo-003"
   }
 ]
