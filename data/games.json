@@ -1,17 +1,5 @@
 [
   {
-    "id": "monst",
-    "name": "モンスト",
-    "fullName": "モンスターストライク",
-    "icon": "M"
-  },
-  {
-    "id": "monstk",
-    "name": "モンスト限定確定",
-    "fullName": "モンスターストライク",
-    "icon": "●"
-  },
-  {
     "id": "prospi",
     "name": "プロスピA",
     "fullName": "プロ野球スピリッツA",
