@@ -50,5 +50,18 @@
     "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
     "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
     "id": "prospi-003"
+  },
+  {
+    "gameId": "prospi",
+    "gameName": "プロ野球スピリッツA",
+    "title": "Vロード6 エナジー3100 経験値90万以上所持",
+    "description": "所持選手画像参照",
+    "price": 3000,
+    "images": [
+      "images/e9ebe03b3af44e20a22bb9917db9c92f.png"
+    ],
+    "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
+    "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
+    "id": "prospi-004"
   }
 ]
