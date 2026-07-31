@@ -245,5 +245,18 @@
     "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
     "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
     "id": "fanpare-009"
+  },
+  {
+    "gameId": "fanpare",
+    "gameName": "呪術廻戦ファントムパレード",
+    "title": "限定複数所持 進行済み石垢",
+    "description": "石19万以上 チケット700～",
+    "price": 19000,
+    "images": [
+      "images/71479447c71645cbb03688f2aa6f5726.png"
+    ],
+    "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
+    "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
+    "id": "fanpare-010"
   }
 ]
