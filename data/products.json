@@ -765,5 +765,18 @@
     "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
     "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
     "id": "bounty i-006"
+  },
+  {
+    "gameId": "bounty i",
+    "gameName": "バウンティラッシュios",
+    "title": "超フェス複数所持",
+    "description": "石5000+かけら2000",
+    "price": 17000,
+    "images": [
+      "images/eb9b13941f2649ba9ebeee01d454c742.png"
+    ],
+    "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
+    "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
+    "id": "bounty i-007"
   }
 ]
