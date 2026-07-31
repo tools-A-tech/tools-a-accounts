@@ -442,9 +442,24 @@ function renderCategories() {
 }
 
 function renderProducts() {
-  const visible = state.category === "all"
-    ? state.products
-    : state.products.filter(product => product.gameId === state.category);
+  let visible;
+  if (state.category === "all") {
+    // 各ゲームタイトルの最新出品を1件ずつ表示
+    // 配列の後ろ側が新しい前提。タイトル順は games の並びを優先
+    const latestByGame = new Map();
+    for (const product of state.products) {
+      latestByGame.set(product.gameId, product);
+    }
+    visible = state.games
+      .map(g => latestByGame.get(g.id))
+      .filter(Boolean);
+    // games に無い gameId の商品があれば末尾に追加
+    for (const [gid, product] of latestByGame) {
+      if (!state.games.some(g => g.id === gid)) visible.push(product);
+    }
+  } else {
+    visible = state.products.filter(product => product.gameId === state.category);
+  }
 
   productList.innerHTML = visible.map(product => `
     <article class="product-card">
