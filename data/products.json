@@ -622,5 +622,18 @@
     "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
     "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
     "id": "bounty a-005"
+  },
+  {
+    "gameId": "bounty a",
+    "gameName": "バウンティラッシュAndroid",
+    "title": "超フェス複数所持",
+    "description": "石5000+かけら3400 ガチャ代行+1000円",
+    "price": 7000,
+    "images": [
+      "images/c962a2ff80384366b0a1d55b97d4bf3c.png"
+    ],
+    "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
+    "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
+    "id": "bounty a-006"
   }
 ]
