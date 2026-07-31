@@ -6,27 +6,21 @@
     "icon": "M"
   },
   {
+    "id": "monstk",
+    "name": "モンスト限定確定",
+    "fullName": "モンスターストライク",
+    "icon": "●"
+  },
+  {
     "id": "prospi",
     "name": "プロスピA",
     "fullName": "プロ野球スピリッツA",
-    "icon": "⚾"
+    "icon": "●"
   },
   {
     "id": "fanpare",
     "name": "ファンパレ",
-    "fullName": "呪術廻戦 ファントムパレード",
-    "icon": "呪"
-  },
-  {
-    "id": "bounty",
-    "name": "バウンティ",
-    "fullName": "バウンティラッシュ",
-    "icon": "☠"
-  },
-  {
-    "id": "efoot",
-    "name": "イーフト",
-    "fullName": "efootball",
+    "fullName": "呪術廻戦ファントムパレード",
     "icon": "●"
   },
   {
@@ -36,9 +30,15 @@
     "icon": "●"
   },
   {
-    "id": "nikke",
-    "name": "NIKKE",
-    "fullName": "勝利の女神：NIKKE",
+    "id": "bounty i",
+    "name": "バウンティ ios",
+    "fullName": "バウンティラッシュios",
+    "icon": "●"
+  },
+  {
+    "id": "bounty a",
+    "name": "バウンティ Android",
+    "fullName": "バウンティラッシュAndroid",
     "icon": "●"
   }
 ]
