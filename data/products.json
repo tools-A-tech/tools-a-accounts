@@ -414,5 +414,18 @@
     "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
     "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
     "id": "fgo-008"
+  },
+  {
+    "gameId": "fgo",
+    "gameName": "Fate/Grand Order",
+    "title": "画像キャラ確定 進行済み",
+    "description": "石5000前後 奏2",
+    "price": 5000,
+    "images": [
+      "images/5a988a3f40dd4d579aafc82e730b2c9b.png"
+    ],
+    "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
+    "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
+    "id": "fgo-009"
   }
 ]
