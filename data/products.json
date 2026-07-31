@@ -804,5 +804,18 @@
     "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
     "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
     "id": "bounty i-009"
+  },
+  {
+    "gameId": "bounty a",
+    "gameName": "バウンティラッシュAndroid",
+    "title": "画像キャラ確定 超フェス複数所持",
+    "description": "石4100+かけら7800 ガチャ代行は+1000円",
+    "price": 17000,
+    "images": [
+      "images/0e672115290c4bd08154ec45bba894cd.png"
+    ],
+    "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
+    "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
+    "id": "bounty a-011"
   }
 ]
