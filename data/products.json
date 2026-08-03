@@ -510,21 +510,8 @@
     "gameId": "fgo",
     "gameName": "Fate/Grand Order",
     "title": "画像キャラ確定 進行済み",
-    "description": "石7100個前後 奏4",
-    "price": 12000,
-    "images": [
-      "images/389b8d006dac48d08f8d23bc7fc6a42f.png"
-    ],
-    "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
-    "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
-    "id": "fgo-017"
-  },
-  {
-    "gameId": "fgo",
-    "gameName": "Fate/Grand Order",
-    "title": "画像キャラ確定 進行済み",
     "description": "石7300個前後 奏4",
-    "price": 13000,
+    "price": 15000,
     "images": [
       "images/63b3ad2b724848ba996d9fd90c044a32.png"
     ],
@@ -536,8 +523,8 @@
     "gameId": "fgo",
     "gameName": "Fate/Grand Order",
     "title": "画像キャラ確定 進行済み",
-    "description": "石7600個前後 奏4 オベロンキャストリアコヤンスカヤなども所持",
-    "price": 17000,
+    "description": "石7900個前後 奏4 オベロンキャストリアコヤンスカヤなども所持",
+    "price": 18000,
     "images": [
       "images/5591350989b141e0a51b42dd8370e977.png"
     ],
@@ -609,19 +596,6 @@
     "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
     "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
     "id": "bounty a-006"
-  },
-  {
-    "gameId": "bounty a",
-    "gameName": "バウンティラッシュAndroid",
-    "title": "画像キャラ確定 超フェス複数所持",
-    "description": "石5000+かけら3400 ガチャ代行+1000円",
-    "price": 7000,
-    "images": [
-      "images/9e7305b495474e1884ab8e4460cbce63.png"
-    ],
-    "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
-    "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
-    "id": "bounty a-007"
   },
   {
     "gameId": "bounty a",
