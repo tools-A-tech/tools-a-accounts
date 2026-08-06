@@ -28,5 +28,11 @@
     "name": "バウンティ Android",
     "fullName": "バウンティラッシュAndroid",
     "icon": "●"
+  },
+  {
+    "id": "bleach",
+    "name": "ブレソル",
+    "fullName": "BLEACH Brave Souls",
+    "icon": "●"
   }
 ]
