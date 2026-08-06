@@ -211,45 +211,6 @@
     "gameId": "fanpare",
     "gameName": "呪術廻戦ファントムパレード",
     "title": "画像の限定キャラ所持 進行済み石垢",
-    "description": "石16万以上 チケット650～",
-    "price": 19000,
-    "images": [
-      "images/4b0945127f4d46bb93ce87fa70f4da26.png"
-    ],
-    "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
-    "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
-    "id": "fanpare-008"
-  },
-  {
-    "gameId": "fanpare",
-    "gameName": "呪術廻戦ファントムパレード",
-    "title": "画像の限定キャラ所持 進行済み石垢",
-    "description": "石17万以上 チケット670～",
-    "price": 16000,
-    "images": [
-      "images/5e9b78549dd04a73b79db67d08a98d3c.png"
-    ],
-    "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
-    "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
-    "id": "fanpare-009"
-  },
-  {
-    "gameId": "fanpare",
-    "gameName": "呪術廻戦ファントムパレード",
-    "title": "画像の限定キャラ所持 進行済み石垢",
-    "description": "石19万以上 チケット700～",
-    "price": 19000,
-    "images": [
-      "images/71479447c71645cbb03688f2aa6f5726.png"
-    ],
-    "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
-    "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
-    "id": "fanpare-010"
-  },
-  {
-    "gameId": "fanpare",
-    "gameName": "呪術廻戦ファントムパレード",
-    "title": "画像の限定キャラ所持 進行済み石垢",
     "description": "石19万以上 チケット650～",
     "price": 16000,
     "images": [
@@ -271,19 +232,6 @@
     "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
     "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
     "id": "fanpare-012"
-  },
-  {
-    "gameId": "fanpare",
-    "gameName": "呪術廻戦ファントムパレード",
-    "title": "画像の限定キャラ所持 進行済み石垢",
-    "description": "石14万以上 チケット660～",
-    "price": 16000,
-    "images": [
-      "images/f7eda41dacca4321a3d114e1ce3e5962.png"
-    ],
-    "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
-    "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
-    "id": "fanpare-013"
   },
   {
     "gameId": "fanpare",
