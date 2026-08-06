@@ -424,7 +424,7 @@ function formatPrice(value) {
 }
 
 function renderCategories() {
-  const items = [{ id: "all", name: "すべて", icon: "全" }, ...state.games];
+  const items = [{ id: "all", name: "新着", icon: "全" }, ...state.games];
   categoryBar.innerHTML = items.map(game => `
     <button class="category-button ${state.category === game.id ? "active" : ""}"
       type="button" data-category="${game.id}">
