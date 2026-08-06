@@ -843,5 +843,18 @@
     "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
     "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
     "id": "bleach-006"
+  },
+  {
+    "gameId": "bleach",
+    "gameName": "BLEACH Brave Souls",
+    "title": "画像キャラ確定 石50000個前後",
+    "description": "",
+    "price": 6000,
+    "images": [
+      "images/a34ac3463bdb49f3b0e3016253bfee43.png"
+    ],
+    "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
+    "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
+    "id": "bleach-007"
   }
 ]
