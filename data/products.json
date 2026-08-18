@@ -106,11 +106,11 @@
   {
     "gameId": "prospi",
     "gameName": "プロ野球スピリッツA",
-    "title": "Vロード6 エナジー3100",
+    "title": "Vロード8途中 エナジー4200",
     "description": "所持選手画像参照 経験値90万以上所持",
-    "price": 3000,
+    "price": 5000,
     "images": [
-      "images/276ea3e594d040f6a39ded03fef51c4a.png"
+      "images/fc8bbccc4a7a47399714b0efb0aac031.png"
     ],
     "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
     "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
