@@ -104,19 +104,6 @@
     "id": "prospi-009"
   },
   {
-    "gameId": "prospi",
-    "gameName": "プロ野球スピリッツA",
-    "title": "Vロード8途中 エナジー4200",
-    "description": "所持選手画像参照 経験値90万以上所持",
-    "price": 5000,
-    "images": [
-      "images/fc8bbccc4a7a47399714b0efb0aac031.png"
-    ],
-    "xUrl": "https://x.com/messages/compose?recipient_id=1641057230408540163",
-    "lineUrl": "https://line.me/ti/p/9v4gGIz11z",
-    "id": "prospi-010"
-  },
-  {
     "gameId": "fanpare",
     "gameName": "呪術廻戦ファントムパレード",
     "title": "画像の限定キャラ所持 進行済み石垢",
